@@ -8,9 +8,12 @@
 .cella {
     border: 1px solid black;
     height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     cursor: pointer;
-    background-color: white; /
+    background-color: white;
 }
 
 .clicked {
